@@ -1,0 +1,1 @@
+docker build -t ml-docker/jupyter-conda-cuda:11.6.2 $PSScriptRoot/

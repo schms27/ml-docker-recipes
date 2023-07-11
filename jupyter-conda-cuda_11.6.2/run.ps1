@@ -1,0 +1,1 @@
+docker run --rm -p 8888:8888 -v ${PWD}:/app ml-docker/jupyter-conda-cuda:11.6.2
