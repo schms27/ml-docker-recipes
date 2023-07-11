@@ -13,6 +13,7 @@ RUN apt-get update && apt-get install -y \
     ca-certificates \
     sudo \
     git \
+    wget \
     bzip2 \
     libx11-6 \
     libgl1 \
