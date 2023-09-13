@@ -1,0 +1,1 @@
+docker build -t schms27/pytorch:1.12.1-cuda11.6 .
